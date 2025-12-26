@@ -12,6 +12,7 @@
 <br><br>
 <img width="1403" height="778" alt="fotofigma6" src="https://github.com/user-attachments/assets/6dffa9e6-519d-4c47-9c4e-46fd2a2ee964" />
 
+<br><br>
 
 🌍 HumanityConnect
 
@@ -59,6 +60,7 @@ Chart.js (statistics & visualizations)
 dompdf (PDF certificate generation)
 
 👥 User Roles
+
 🔹 User
 
 Can register and log in
